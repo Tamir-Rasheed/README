@@ -1,19 +1,14 @@
-Hi 👋, I'm Tamir Rasheed
-A Graduate from San Francisco State University with a B.S. in Computer Science and a minor in Mathematics
-🔭 I’m currently working on MLBStatTracker and MemoryBank
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tamir Rasheed
+=====================================================================================================================================
 
-🌱 I’m currently learning SpringBoot
+Amazon Area Manager
+-------------------
 
-💬 Ask me about JavaScript, Java, and Python
+San Francisco State University Graduate with a Bachelors of Science in Computer Science and a minor in Mathematics
 
-📫 How to reach me Trasheed@mail.sfsu.edu
-
-📄 Here's a link to my LinkedIn https://www.linkedin.com/in/tamir-rasheed-7913101b8/
-
-⚡ Fun fact I have 5 sisters (2 older and 3 younger)
-
-Connect with me:
-tamir rasheed tamir20092 tamir_thearab
-
-Languages and Tools:
-bootstrap css3 express figma git heroku html5 java javascript linux mongodb mssql mysql nodejs postgresql postman python react redux spring typescript
+*   🌍  I'm based in the Bay Area, California
+*   🖥️  See my portfolio at [My Website](http://tamirrasheed.netlify.app/#home)
+*   ✉️  You can contact me at [tamirrasheed@outlook.com](mailto:tamirrasheed@outlook.com)
+*   🧠  I'm learning /refining my knowledge of algorithms and data structures to sharpen my problem-solving skills and strengthen my software engineering foundation. I'm also working on projects in Python and JavaScript that bring these concepts to life, preparing me for impactful opportunities in the tech industry.
+*   🤝  I'm open to collaborating on anything having to do with Java, JavaScript, and Python
+*   ⚡  Fun Fact: I have 5 sisters (2 older and 3 younger)
